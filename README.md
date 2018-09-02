@@ -1,3 +1,3 @@
 ## DongDongChat-Frontend
 
-Created Socket.io, React, Material-UI, Firebase
+Created using Socket.io, React, Material-UI, Firebase
