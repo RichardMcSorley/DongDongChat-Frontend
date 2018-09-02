@@ -1,24 +1,3 @@
-## React-Boilerplate-v2
+## DongDongChat-Frontend
 
-Created using React-Router, React-Redux.
-
-### Markdown for reference :wink:
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Created Socket.io, React, Material-UI, Firebase

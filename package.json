@@ -1,5 +1,5 @@
 {
-  "name": "dongdongchatroom",
+  "name": "dongdongchat-frontend",
   "version": "0.1.0",
   "description": "Chat application for KoreanUnnie and DongDongSquad, using React and Socket.io",
   "engines": {
