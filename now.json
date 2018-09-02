@@ -1,0 +1,12 @@
+{
+  "name": "chat-site",
+  "alias": [
+    "chat-site"
+  ],
+  "dotenv": ".env.production",
+  "type": "npm",
+  "public": false,
+  "static":{
+    
+  }
+}
